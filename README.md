@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I am a software engineer who are passionate about building software stuff　and competitive programming.
+- 😄 I am a software engineer who are passionate about building software stuff and competitive programming.
 - 🌱 I’m currently learning algorithm and data structures.
 - 📫 How to reach me: [Email](mailto:caovanbi235@gmai.com)
 
