@@ -1,10 +1,8 @@
 ### Hi there 👋
 - 😄 I am a software engineer who are passionate about building software stuff and competitive programming.
-- 🌱 I’m currently learning algorithm and data structures.
 - 📫 How to reach me: [Email](mailto:caovanbi235@gmai.com)
 
 #### What I am proficient or use often
-- C++/Java
 
 <!--
 **caovanbi235/caovanbi235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
